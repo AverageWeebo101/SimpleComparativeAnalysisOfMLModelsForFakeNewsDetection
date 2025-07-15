@@ -1,0 +1,52 @@
+
+========================================
+Logistic Regression Classification Report
+========================================
+              precision    recall  f1-score   support
+
+        Real       0.99      1.00      0.99      4283
+        Fake       1.00      0.99      0.99      4547
+
+    accuracy                           0.99      8830
+   macro avg       0.99      0.99      0.99      8830
+weighted avg       0.99      0.99      0.99      8830
+
+
+========================================
+Random Forest Classification Report
+========================================
+              precision    recall  f1-score   support
+
+        Real       1.00      1.00      1.00      4283
+        Fake       1.00      1.00      1.00      4547
+
+    accuracy                           1.00      8830
+   macro avg       1.00      1.00      1.00      8830
+weighted avg       1.00      1.00      1.00      8830
+
+
+========================================
+LSTM Classification Report
+========================================
+              precision    recall  f1-score   support
+
+        Real       0.99      0.99      0.99      4283
+        Fake       0.99      0.99      0.99      4547
+
+    accuracy                           0.99      8830
+   macro avg       0.99      0.99      0.99      8830
+weighted avg       0.99      0.99      0.99      8830
+
+
+========================================
+DistilBERT Classification Report
+========================================
+              precision    recall  f1-score   support
+
+        Real       1.00      1.00      1.00      4283
+        Fake       1.00      1.00      1.00      4547
+
+    accuracy                           1.00      8830
+   macro avg       1.00      1.00      1.00      8830
+weighted avg       1.00      1.00      1.00      8830
+
