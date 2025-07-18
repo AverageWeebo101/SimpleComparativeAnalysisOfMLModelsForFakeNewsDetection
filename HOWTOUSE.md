@@ -9,6 +9,11 @@ This guide helps you set up the environment and run the Jupyter notebook, uwu.
   - *Python* (official Microsoft extension)
 - **Kaggle Account** ([Sign up here](https://kaggle.com))
 
+## Kaggle API Setup
+1. Go to your Kaggle Account Settings
+2. Click "Create New API Token" → Downloads kaggle.json
+3. Place kaggle.json in the project root directory
+
 ## Initial Setup
 
 ### 1. Clone Repository
@@ -32,10 +37,5 @@ For Windows:
 ```bash
 pip install numpy pandas scikit-learn tensorflow transformers matplotlib seaborn kaggle
 ```
-
-## Kaggle API Setup
-1. Go to your Kaggle Account Settings
-2. Click "Create New API Token" → Downloads kaggle.json
-3. Place kaggle.json in the project root directory
 
 ## Dataset is downloaded automnatically, as long as you have kaggle.json in project root directory
