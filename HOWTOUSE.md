@@ -1,5 +1,10 @@
 # SimpleComparativeAnalysisOfMLModelsForFakeNewsDetection - Setup Guide
 
+## Documentation
+[![Home](https://img.shields.io/badge/🏠_Home-README.md-8A2BE2)](README.md)
+[![Setup Guide](https://img.shields.io/badge/📖_Current_Guide-HOWTOUSE.md-2ea44f)](HOWTOUSE.md)
+[![License](https://img.shields.io/badge/⚖️_License-GPL_v3-blue)](LICENSE)
+
 This guide helps you set up the environment and run the Jupyter notebook, uwu.
 
 ## Prerequisites
