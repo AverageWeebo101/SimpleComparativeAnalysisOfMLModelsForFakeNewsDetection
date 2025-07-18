@@ -39,3 +39,10 @@ pip install numpy pandas scikit-learn tensorflow transformers matplotlib seaborn
 ```
 
 ## Dataset is downloaded automnatically, as long as you have kaggle.json in project root directory
+
+## Make sure to download these files, the rest are optional
+```bash
+├── C20MLModelsStuff.ipynb
+├── .gitattributes
+├── .gitignore
+```
