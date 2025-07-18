@@ -1,5 +1,9 @@
 # Simple Comparative Analysis of Machine Learning Models for Fake News Detection
 
+## Documentation
+- [Getting Started Guide](HOWTOUSE.md)
+- [License](LICENSE)
+
 ## Project Description
 This repository contains a comparative analysis of four machine learning approaches (Logistic Regression, Random Forest, LSTM, and DistilBERT) for fake news classification. Developed as partial fulfillment for CS20L (12044) Summer School Year 2025.
 
